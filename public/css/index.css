@@ -3,7 +3,7 @@
   background-color: yellow;
 }
 .lesson-four-task-two h1:hover {
-  color: green;
+  background-color: green;
 }
 #lesson-four-task-three :visited {
   color: yellow;
